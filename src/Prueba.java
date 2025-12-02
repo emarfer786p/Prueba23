@@ -7,6 +7,11 @@ public class Prueba {
 		System.out.println("Hola mundo");
 		System.out.println("Nueva linea");
 		
+		int a  = 4;
+		
+		int b = 5;
+		
+		
 	
 	}
 
